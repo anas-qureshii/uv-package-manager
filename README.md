@@ -1,0 +1,1 @@
+this is project made using uv package manager that we will use further
